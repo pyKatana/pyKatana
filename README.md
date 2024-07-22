@@ -1,7 +1,10 @@
-<div align="left">
+<div align="center">
 
 <h1>💮 Hey, pyKatana!</h1>
-<b>Welcome to pyKatana:</b> asynchronous Python Telegram Bot API framwork for OOP!
+<b>Welcome to pyKatana:</b>
+<pre>
+  Asynchronous Python Telegram Bot API framework for OOP!
+</pre>
 <br><br>
 <a href="https://pyKatana.t.me">
   <img src="tg.png" alt="Telegram Forum" width="30" height="30">
