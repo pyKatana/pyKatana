@@ -4,7 +4,7 @@
 
 <b>Welcome to pyKatana:</b>
 <pre>
-  Asynchronous Python Telegram Bot API framework for OOP!
+  Asynchronous Python Telegram Bot API framework with OOP!
   But now in dev...
 </pre>
 
